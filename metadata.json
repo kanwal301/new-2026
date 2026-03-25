@@ -1,0 +1,7 @@
+{
+  "name": "Pak Education - All-in-One School Management",
+  "description": "A comprehensive school management and LMS solution for students, teachers, parents, and administrators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
